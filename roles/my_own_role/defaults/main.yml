@@ -1,0 +1,5 @@
+#SPDX-License-Identifier: MIT-0
+---
+# defaults file for roles/my_own_role
+my_role_path: "/tmp/test/test1.txt"
+my_role_content: "content from role 2"
