@@ -1,3 +1,3 @@
 # Ansible Collection - my_own_namespace.yandex_cloud_elk
 
-Documentation for the collection.
+Учебный проект по Ansible от Netology
